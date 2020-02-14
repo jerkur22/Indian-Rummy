@@ -1,0 +1,23 @@
+{
+  "name": "pegasus",
+  "version": "0.0.1",
+  "description": "A online Rummy card game",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jerkur22/pegasus.git"
+  },
+  "author": "SSHH.IO",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/jerkur22/pegasus/issues"
+  },
+  "homepage": "https://github.com/jerkur22/pegasus#readme",
+  "dependencies": {
+    "express": "^4.16.2",
+    "ws": "^4.0.0"
+  }
+}
